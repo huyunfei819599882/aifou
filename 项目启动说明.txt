@@ -1,0 +1,2 @@
+项目主体：需要联网，在aifou文件下,进入黑窗口输入npm(cnpm) i 下载依赖 输入 npm(cnpm) run dev启动
+后台：在server0文件下进入黑窗口 进入黑窗口输入npm(cnpm) i 下载依赖 node server.js启动
